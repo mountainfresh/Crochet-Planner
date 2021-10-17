@@ -4,8 +4,8 @@ import InputLabel from "@material-ui/core/InputLabel";
 import MenuItem from "@material-ui/core/MenuItem";
 import FormControl from "@material-ui/core/FormControl";
 import Select from "@material-ui/core/Select";
-import afghanPic from "./pile-of-blankets.jpg";
-import questioningPic from "./woman-questioning.jpg";
+import afghanPic from "./images/pile-of-blankets.jpg";
+import questioningPic from "./images/woman-questioning.jpg";
 import { Button } from "@material-ui/core";
 
 const images: { [key: string]: string } = {
